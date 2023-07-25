@@ -8,6 +8,10 @@ public class Task {
         this.description = description;
     }
 
+    public void setDescription(String description) {
+        this.description = description;
+    }
+
     public int getId() {
         return id;
     }
