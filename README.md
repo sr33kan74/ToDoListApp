@@ -1,4 +1,9 @@
 # ToDoListApp
+command to run the program in Windows " java -cp "C:\Projects\ToDoListApp\sqlite-jdbc-3.7.2.jar;C:\Projects\ToDoListApp" Main "
+
+Linux java -cp "/Projects/ToDoListApp/sqlite-jdbc-3.7.2.jar:/Projects/ToDoListApp" Main
+
+
  Simple Java project that uses a database. For this example, we'll use SQLite as the database since it's a self-contained, serverless database that doesn't require any additional setup.  Here, we'll create a basic "ToDoList" application where you can add and retrieve tasks from the database.
 
 
